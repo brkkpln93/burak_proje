@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:textSize">12sp</item>
+        <item name="colorPrimaryDark">#777</item>
+        <item name="colorControlActivated">@color/error_color</item>
+        <item name="colorPrimary">@color/material_blue_grey_950</item>
+        <item name="android:windowBackground">?android:attr/detailsElementBackground</item>
+    </style>
+</resources>
